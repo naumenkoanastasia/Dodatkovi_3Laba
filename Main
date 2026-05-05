@@ -14,8 +14,8 @@ class Program
             Console.WriteLine("\n======================МЕНЮ========================");
             Console.WriteLine("1. Варіант 6 (Батир Валерія)");
             Console.WriteLine("2. Варіант 1 (Коваленко Дар'я)");
-            Console.WriteLine("3. Варіант 2 (Науменко Анастасія)");
-            Console.WriteLine("4. Варіант 3 (Плахоття Маргарита)");
+            Console.WriteLine("3. Варіант 4 (Науменко Анастасія)");
+            Console.WriteLine("4. Варіант 11 (Плахоття Маргарита)");
             Console.WriteLine("0. Вихід");
 
             choice = int.Parse(Console.ReadLine());
@@ -62,7 +62,7 @@ class Program
                     Console.ReadLine();
                     break;
                 default:
-                    Console.WriteLine("Команда ``{0}'' не розпізнана. Зробіть, будь ласка, вибір із 1, 2, 0.", choice);
+                    Console.WriteLine("Команда ``{0}'' не розпізнана. Зробіть, будь ласка, вибір із 1, 2, 3, 4, 0.", choice);
                     break;
             }
         } while (choice != 0);
