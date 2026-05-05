@@ -69,7 +69,7 @@ public static class ArrayUtils
     }
     public static void WriteArr(int[] arr)
     {
-        if (a == null || a.Length == 0)
+        if (arr== null || arr.Length == 0)
             {
                 Console.WriteLine("Масив порожній.");
                 return;
