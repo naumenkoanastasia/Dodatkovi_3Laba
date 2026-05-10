@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dodatkovi_3Laba/1.0.0": {
+        "runtime": {
+          "Dodatkovi_3Laba.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dodatkovi_3Laba/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

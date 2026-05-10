@@ -1,16 +1,11 @@
 using System;
-namespace ArrayApp
-{
-class Block1
+
+public class KovalenkoVar
 {
    
     static void RemoveByValue(ref int[] a, int key)
     {
-        if (a.Length == 0)
-        {
-            Console.WriteLine("Масив порожній");
-            return;
-        }
+        
 
         int pos = -1;
 
@@ -40,13 +35,13 @@ class Block1
         a = b;
     }
 
-    static void Main()
+    static public int[] DoBlock_1(int[] arr)
     {
-       int[] arr = { 5, 3, -1, 7, 3, 0 };
-            int key = 3;
-            RemoveByValue(ref arr, key);
-            foreach (int x in arr)
-                Console.Write(x + " ");
+        Console.WriteLine("Знищити елемент із заданим ключем (значенням); якщо таких нема, масив незмінний, якщо багато —\nвилучається лише перший");
+        Console.WriteLine("Введіть ключ:");
+        int key = int.Parse(Console.ReadLine());
+        RemoveByValue(ref arr, key);
+        return arr;
     }
 }
-}
+

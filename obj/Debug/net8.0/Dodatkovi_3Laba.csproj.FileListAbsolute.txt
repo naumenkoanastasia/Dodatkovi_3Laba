@@ -1,0 +1,15 @@
+D:\programuvannya\uniproject\2 семемтр 1 курс\Олімп_ПІ\last one\Dodatkovi_3Laba\bin\Debug\net8.0\Dodatkovi_3Laba.exe
+D:\programuvannya\uniproject\2 семемтр 1 курс\Олімп_ПІ\last one\Dodatkovi_3Laba\bin\Debug\net8.0\Dodatkovi_3Laba.deps.json
+D:\programuvannya\uniproject\2 семемтр 1 курс\Олімп_ПІ\last one\Dodatkovi_3Laba\bin\Debug\net8.0\Dodatkovi_3Laba.runtimeconfig.json
+D:\programuvannya\uniproject\2 семемтр 1 курс\Олімп_ПІ\last one\Dodatkovi_3Laba\bin\Debug\net8.0\Dodatkovi_3Laba.dll
+D:\programuvannya\uniproject\2 семемтр 1 курс\Олімп_ПІ\last one\Dodatkovi_3Laba\bin\Debug\net8.0\Dodatkovi_3Laba.pdb
+D:\programuvannya\uniproject\2 семемтр 1 курс\Олімп_ПІ\last one\Dodatkovi_3Laba\obj\Debug\net8.0\Dodatkovi_3Laba.GeneratedMSBuildEditorConfig.editorconfig
+D:\programuvannya\uniproject\2 семемтр 1 курс\Олімп_ПІ\last one\Dodatkovi_3Laba\obj\Debug\net8.0\Dodatkovi_3Laba.AssemblyInfoInputs.cache
+D:\programuvannya\uniproject\2 семемтр 1 курс\Олімп_ПІ\last one\Dodatkovi_3Laba\obj\Debug\net8.0\Dodatkovi_3Laba.AssemblyInfo.cs
+D:\programuvannya\uniproject\2 семемтр 1 курс\Олімп_ПІ\last one\Dodatkovi_3Laba\obj\Debug\net8.0\Dodatkovi_3Laba.csproj.CoreCompileInputs.cache
+D:\programuvannya\uniproject\2 семемтр 1 курс\Олімп_ПІ\last one\Dodatkovi_3Laba\obj\Debug\net8.0\Dodatkovi_3Laba.sourcelink.json
+D:\programuvannya\uniproject\2 семемтр 1 курс\Олімп_ПІ\last one\Dodatkovi_3Laba\obj\Debug\net8.0\Dodatkovi_3Laba.dll
+D:\programuvannya\uniproject\2 семемтр 1 курс\Олімп_ПІ\last one\Dodatkovi_3Laba\obj\Debug\net8.0\refint\Dodatkovi_3Laba.dll
+D:\programuvannya\uniproject\2 семемтр 1 курс\Олімп_ПІ\last one\Dodatkovi_3Laba\obj\Debug\net8.0\Dodatkovi_3Laba.pdb
+D:\programuvannya\uniproject\2 семемтр 1 курс\Олімп_ПІ\last one\Dodatkovi_3Laba\obj\Debug\net8.0\Dodatkovi_3Laba.genruntimeconfig.cache
+D:\programuvannya\uniproject\2 семемтр 1 курс\Олімп_ПІ\last one\Dodatkovi_3Laba\obj\Debug\net8.0\ref\Dodatkovi_3Laba.dll
